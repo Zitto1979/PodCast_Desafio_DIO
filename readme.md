@@ -14,8 +14,6 @@ Utilizei o "ChatGPT" para criar uma entrevista com Pablo Marçal perguntando qua
 ## 🚀 Resultados
 O resultado do PodCast, após edição no Audacity, me surpreendeu demais.
 
-- E-Book: https://github.com/Zitto1979/EbookComChatGPT/blob/main/eBOOK2.pdf 
-
 ## 💭 Reflexão
 Criar este PodCast foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 
