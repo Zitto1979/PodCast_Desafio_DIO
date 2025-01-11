@@ -1,17 +1,22 @@
-# Projeto Podcast Gerado por I.A.s - Desafio Bootcamp DIO
+# Desafio: Podcast Gerado por I.A.s 💘
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+## 📒 Descrição
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados para o BootCamp CAIXA - IA Generativa com Microsoft Copilot.
 
-## 💻 Tecnologias utilizadas no projeto
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização.
+- API OpenAI para gerar áudios. https://api.openai.com/v1/audio/speech
+- Audacity para edição dos áudios gerados.
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+## 🧐 Processo de Criação
+Utilizei o "ChatGPT" para criar uma entrevista com Pablo Marçal perguntando qual foi o motivo da vinda de Jesus à terra, usando um "tom de voz" do mesmo, usando a técnica ensinada pelo instrutor do BootCamp.
 
-## ✨ Como foi feito ?
+## 🚀 Resultados
+O resultado do PodCast, após edição no Audacity, me surpreendeu demais.
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela API do OpenAI: https://api.openai.com/v1/audio/speech
-- Audacity para edição dos áudios gerados
+- E-Book: https://github.com/Zitto1979/EbookComChatGPT/blob/main/eBOOK2.pdf 
+
+## 💭 Reflexão
+Criar este PodCast foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+
 
